@@ -1,0 +1,26 @@
+[
+  {
+    "question": "In what part of body is fibula found?",
+    "choice1": "<leg>",
+    "choice2": "<hand>",
+    "choice3": "<thigh>",
+    "choice4": "<chest>",
+    "answer": 1
+  },
+  {
+    "question": "The substrate of photo-respiration is'?",
+    "choice1": "<glucose'>",
+    "choice2": "<fatty acid>",
+    "choice3": "<pyruvic acid>",
+    "choice4": "<carbon dioxide>",
+    "answer": 3
+  },
+  {
+    "question": " Which one of these animals is jawless?",
+    "choice1": "<Shark>",
+    "choice2": "<Trygon>",
+    "choice3": "<Sphyrna>",
+    "choice4": "<Myxine>",
+    "answer": 4
+  }
+]
